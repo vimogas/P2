@@ -1,5 +1,6 @@
 <html>
 <title>Prueba</title>
-<br /><br />
 <center><h1>Portada de la web</h1></center>
+<br>
+<img src="onf.jpg">
 </html>
